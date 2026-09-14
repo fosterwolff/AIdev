@@ -1,0 +1,14 @@
+C:\AI\TestApp1\HelloWorldWindowApp\bin\Debug\net10.0-windows\HelloWorldWindowApp.exe
+C:\AI\TestApp1\HelloWorldWindowApp\bin\Debug\net10.0-windows\HelloWorldWindowApp.deps.json
+C:\AI\TestApp1\HelloWorldWindowApp\bin\Debug\net10.0-windows\HelloWorldWindowApp.runtimeconfig.json
+C:\AI\TestApp1\HelloWorldWindowApp\bin\Debug\net10.0-windows\HelloWorldWindowApp.dll
+C:\AI\TestApp1\HelloWorldWindowApp\bin\Debug\net10.0-windows\HelloWorldWindowApp.pdb
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.AssemblyInfoInputs.cache
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.AssemblyInfo.cs
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.csproj.CoreCompileInputs.cache
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.dll
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\refint\HelloWorldWindowApp.dll
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.pdb
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.genruntimeconfig.cache
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\ref\HelloWorldWindowApp.dll
