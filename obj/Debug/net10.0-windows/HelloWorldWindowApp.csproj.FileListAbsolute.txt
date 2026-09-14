@@ -12,3 +12,4 @@ C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\refint\HelloWorldWi
 C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.pdb
 C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.genruntimeconfig.cache
 C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\ref\HelloWorldWindowApp.dll
+C:\AI\TestApp1\HelloWorldWindowApp\obj\Debug\net10.0-windows\HelloWorldWindowApp.sourcelink.json
